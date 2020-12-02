@@ -1,0 +1,10 @@
+E:\Projetos do C#\DatabaseTeste\teste\teste\bin\Debug\teste.exe.config
+E:\Projetos do C#\DatabaseTeste\teste\teste\bin\Debug\teste.exe
+E:\Projetos do C#\DatabaseTeste\teste\teste\bin\Debug\teste.pdb
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.Form1.resources
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.Properties.Resources.resources
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.csproj.GenerateResource.Cache
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.exe
+E:\Projetos do C#\DatabaseTeste\teste\teste\obj\Debug\teste.pdb
+E:\Projetos do C#\DatabaseTeste\teste\teste\bin\Debug\teste.accdb
