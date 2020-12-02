@@ -1,0 +1,10 @@
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\bin\Debug\GestaoDoProfessor.exe.config
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\bin\Debug\Professor.accdb
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\bin\Debug\GestaoDoProfessor.exe
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\bin\Debug\GestaoDoProfessor.pdb
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.Form1.resources
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.Properties.Resources.resources
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.csproj.GenerateResource.Cache
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.exe
+E:\Projetos do C#\PofessorDatabase\GestaoDoProfessor\GestaoDoProfessor\obj\Debug\GestaoDoProfessor.pdb
